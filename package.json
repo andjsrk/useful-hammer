@@ -1,0 +1,7 @@
+{
+	"name": "useful-hammer",
+	"description": "Hammer to ban/kick member in Discord",
+	"dependencies": {
+		"discord.js": "^13.4.0"
+	}
+}
